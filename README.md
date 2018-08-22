@@ -6,7 +6,7 @@ FNML: A model for discovering new drug-target interactions.
 To reproduce our results:
 1. Before run the code, you need to replace the 45th line of FNML.py:
 "jarpath = os.path.join(os.path.abspath('.'), '/root/') "
-replace the "/root" to the path of file "java.jar".
+replace the "/root" with the path of file "java.jar".
 2. Run <code>FNML.py</code> to reproduce the cross validation results of FNML
 
 # Code description
